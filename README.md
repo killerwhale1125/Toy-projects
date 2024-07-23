@@ -23,4 +23,4 @@
   <br>
   <br>
   Notion : 
-  [클라이언트의 증가에 따라서 서버를 어떻게 확장해야할까?](https://fluorescent-sceptre-6b9.notion.site/626c4d1235184c1c83913a6cca1ad819)
+  [클라이언트의 증가에 따라서 서버를 어떻게 확장해야할까?](https://fluorescent-sceptre-6b9.notion.site/OOP-1e3f200f3cf34e58ae2141d041b06b8d)
