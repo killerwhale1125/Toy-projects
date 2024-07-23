@@ -1,5 +1,5 @@
 <p align="center">
-  <div align="center"><img src="[https://github.com/user-attachments/assets/2a8795ac-2417-4313-935a-e5a95bdb285d](https://github.com/user-attachments/assets/ed2e19be-809e-444d-a130-dcdad363b71f)"/></div>
+  <div align="center"><img src="https://github.com/user-attachments/assets/2a8795ac-2417-4313-935a-e5a95bdb285d](https://github.com/user-attachments/assets/ed2e19be-809e-444d-a130-dcdad363b71f"/></div>
 </p>
 
 <p align="center">웹 프로젝트에 지쳐 가끔 순수 자바만으로 개발하고 싶을 때를 위한 토이 프로젝트</p>
