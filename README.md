@@ -14,7 +14,7 @@
   <br>
   <br>
   Notion : 
-  [주차 관리 시스템 기능 정의 및 설명](https://fluorescent-sceptre-6b9.notion.site/626c4d1235184c1c83913a6cca1ad819)
+  [주차 관리 시스템 기능 정의 및 설명](https://fluorescent-sceptre-6b9.notion.site/OOP-895782f7bc7444e18be5c2107340de7b)
 
 ### <span>택시 배차 시스템
 * 당근마켓은 어떻게 수 많은 사용자들에게 서비스를 제공하고있을까? <br>
