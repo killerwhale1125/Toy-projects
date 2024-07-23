@@ -2,7 +2,7 @@
   <div align="center"><img src="https://github.com/user-attachments/assets/66ea92b6-ae98-4f1c-9b8f-2643ee082c41"/></div>
 </p>
 <br>
-<p align="center">웹 프로젝트에 지쳐 가끔 순수 자바만으로 개발하고 싶을 때를 위한 토이 프로젝트</p>
+<p align="center">웹 프로젝트에 지쳐 순수 자바만으로 개발하고 싶을 때를 위한 토이 프로젝트</p>
 
 ### 프로젝트의 중점 사항
 
