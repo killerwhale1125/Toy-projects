@@ -17,17 +17,10 @@
   Notion : 
   [클라이언트의 증가에 따라서 서버를 어떻게 확장해야할까?](https://fluorescent-sceptre-6b9.notion.site/626c4d1235184c1c83913a6cca1ad819)
 
-### <span> 택시 배차 시스템
+### <span>택시 배차 시스템
 * 당근마켓은 어떻게 수 많은 사용자들에게 서비스를 제공하고있을까? <br>
 * 당근마켓은 어떻게 대용량의 트래픽을 견디고 있을까? 
   <br>
   <br>
-  * [클라이언트의 증가에 따라서 서버를 어떻게 확장해야할까?](https://fluorescent-sceptre-6b9.notion.site/626c4d1235184c1c83913a6cca1ad819)
-  이러한 궁금증으로 인해 당근마켓 서버를 간단히 구현해보고 접해보는 프로젝트를 진행하게 되었습니다.<p>
-
-### 프로젝트 전체 구성도
-![image](https://github.com/user-attachments/assets/f36e2db9-4d73-431f-bb00-9b07e5f03812)
-
-### 사용한 기술 스택
-![image](https://github.com/user-attachments/assets/5f9117e7-82ad-49c4-95bb-58d6592d9f56)
-
+  Notion : 
+  [클라이언트의 증가에 따라서 서버를 어떻게 확장해야할까?](https://fluorescent-sceptre-6b9.notion.site/626c4d1235184c1c83913a6cca1ad819)
