@@ -14,8 +14,8 @@
 * 당근마켓은 어떻게 대용량의 트래픽을 견디고 있을까? 
   <br>
   <br>
-노션
-* [클라이언트의 증가에 따라서 서버를 어떻게 확장해야할까?](https://fluorescent-sceptre-6b9.notion.site/626c4d1235184c1c83913a6cca1ad819)
+  Notion
+  [클라이언트의 증가에 따라서 서버를 어떻게 확장해야할까?](https://fluorescent-sceptre-6b9.notion.site/626c4d1235184c1c83913a6cca1ad819)
 
 ### <span> 택시 배차 시스템
 * 당근마켓은 어떻게 수 많은 사용자들에게 서비스를 제공하고있을까? <br>
